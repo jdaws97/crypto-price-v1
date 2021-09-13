@@ -1,0 +1,8 @@
+.App {
+  background-color: #5b6467;
+  height: 5300px;
+
+  @media screen and (max-width: 500px) {
+    height: 5500px;
+  }
+}
